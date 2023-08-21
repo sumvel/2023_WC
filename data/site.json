@@ -1,0 +1,26 @@
+{
+    "Logging": {
+        "LogLevel": {
+            "Default": "Debug",
+            "System": "Information",
+            "Microsoft": "Information"
+        }
+    },
+    "AppSettings": {
+        "EncryptionKey": "12345#",
+        "API": {
+            "XXX": "https://12345.com/api/",
+            "YYY": "https://12345.com/api/"
+        }
+    },
+    "CommonSettings": {
+        "EncryptionKey": "12345#",
+        "CC_Base_Url": "https://12345.com",
+        "CC_Internal_Email": "/api/email"
+    },
+    "EmailSettings": {
+        "SMTP_Server": "gateway.mail.xxx.com",
+        "Mailbox_Feedback": "feedback-CC_2023_WC@slb.com",
+        "Mailbox_Support": "support-CC_2023_WC@slb.com"
+    }
+}

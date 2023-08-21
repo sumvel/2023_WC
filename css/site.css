@@ -1,0 +1,23 @@
+/*? BRAND GUIDELINE AND COLORS */
+/** Brand Guideline - Core Colours */
+.cc-blue,.cc-hover-blue:hover{color:#fff!important;background-color:#0014DC!important}
+.cc-white,.cc-hover-white:hover{color:#000!important;background-color:#fff!important}
+
+/** Brand Guideline - Functional Colours */
+.cc-aqua-blue,.cc-hover-aqua-blue:hover{color:#fff!important;background-color:#00D2DC!important}
+.cc-deep-blue,.cc-hover-deep-blue:hover{color:#fff!important;background-color:#051464!important}
+.cc-frost-blue,.cc-hover-frost-blue:hover{color:#fff!important;background-color:#6E8CC8!important}
+.cc-frost-blue-2,.cc-hover-frost-blue-2:hover{color:#000!important;background-color:#AFBEE1!important}
+.cc-light-grey,.cc-hover-light-grey:hover{color:#000!important;background-color:#F0F0F0!important}
+.cc-light-grey-2,.cc-hover-light-grey-2:hover{color:#000!important;background-color:#DCE1E1!important}
+.cc-light-grey-3,.cc-hover-light-grey-3:hover{color:#000!important;background-color:#C8CDCD!important}
+.cc-light-grey-4,.cc-hover-light-grey-4:hover{color:#000!important;background-color:#AAAAAA!important}
+.cc-dark-grey,.cc-hover-dark-grey:hover{color:#fff!important;background-color:#696969!important}
+.cc-black,.cc-hover-black:hover{color:#fff!important;background-color:#000000!important}
+
+/** Brand Guideline - Extended Colours */
+.cc-ext-green,.cc-hover-ext-green:hover{color:#fff!important;background-color:#198C19!important}
+.cc-ext-teal,.cc-hover-ext-teal:hover{color:#fff!important;background-color:#056E5A!important}
+.cc-ext-purple,.cc-hover-ext-purple:hover{color:#fff!important;background-color:#292963!important}
+.cc-ext-pink,.cc-hover-ext-pink:hover{color:#fff!important;background-color:#871445!important}
+.cc-ext-orange,.cc-hover-ext-orange:hover{color:#fff!important;background-color:#B50A0A!important}
